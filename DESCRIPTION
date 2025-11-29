@@ -1,0 +1,13 @@
+Package: kimjkdata
+Title: Access Protected Data Stored on JK Kim’s Linux Server
+Version: 0.0.0.9000
+Authors@R: 
+     person("JK", "Kim", , "kimjk@agronomy4future.com", role = c("aut", "cre"))
+Description: This function provides password-protected access to data files stored on
+             JK Kim’s secure data server. Users must know the correct password to
+             retrieve a dataset, and files are automatically parsed based on their
+            extension.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
